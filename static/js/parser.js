@@ -1,8 +1,4 @@
 
-function html2str(data) {
-    
-}
-
 function setblogdata(array) {
     html_content = '';
     for (let index = 0; index < 4; index++) {        
